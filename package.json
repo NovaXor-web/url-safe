@@ -1,0 +1,16 @@
+{
+  "name": "@novaxor/url-safe",
+  "version": "1.0.0",
+  "description": "URL-safe slug generator for Node.js",
+  "main": "index.js",
+  "keywords": ["slug", "url", "safe", "seo", "string"],
+  "license": "MIT",
+  "author": "NovaXor <hello@novaxor.com> (https://novaxor.dev)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NovaXor-web/url-safe.git"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
